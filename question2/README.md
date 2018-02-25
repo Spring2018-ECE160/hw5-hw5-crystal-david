@@ -4,6 +4,10 @@
 
 Compile Steps:
 Example 1: s= abc t= def
+Example 2: s= def t= ghi
+Example 3: s= def t= g
 
 Output:
 Example 1: abcdef
+Example 2: defghi
+Example 3: defg
